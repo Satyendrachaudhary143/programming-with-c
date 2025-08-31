@@ -1,0 +1,17 @@
+# Ignore a specific file
+secret.txt
+
+# Ignore all `.log` files
+*.log
+
+# Ignore a folder and its contents
+/node_modules/
+/C_Complete_YouTube-main/
+/trace/
+
+# Ignore all `.env` files
+*.env
+
+# Ignore everything in a folder except one file
+/config/*
+!/config/important.json
