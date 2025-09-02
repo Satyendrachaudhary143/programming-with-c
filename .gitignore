@@ -3,6 +3,8 @@ secret.txt
 
 # Ignore all `.log` files
 *.log
+# Ignore all `.exe` files
+*.exe
 
 # Ignore a folder and its contents
 /node_modules/

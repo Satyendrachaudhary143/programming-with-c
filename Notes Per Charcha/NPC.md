@@ -69,6 +69,7 @@ Local variables are declared inside a function or block and are accessible only 
 ### Algorithm (6)
 
 **Q7. Define an algorithm with an example.**
+
 **Answer:** An algorithm is a step-by-step well-defined procedure for solving a problem. Example: algorithm to find the maximum of two numbers:
 1. Read a and b.
 2. If a > b, output a; else output b.
