@@ -10,6 +10,8 @@ secret.txt
 /node_modules/
 /C_Complete_YouTube-main/
 /trace/
+final Practice/code per charcha/
+final Practice/Notes Per Charcha/
 
 # Ignore all `.env` files
 *.env
