@@ -12,22 +12,6 @@ A **programming language** is a formal set of rules and instructions that allows
 - Programming languages make it easier for humans to write instructions in a readable and logical way.
 - The code written in a programming language is later translated (by a compiler or interpreter) into machine code that the computer can execute.
 
-### Types of Programming Languages
-- **Low-Level Languages:** Closer to hardware (e.g., machine language, assembly language).
-- **High-Level Languages:** Easier for humans to use (e.g., C, Python, Java).
-
-### Examples of Programming Languages
-- **C:** Used for system programming, operating systems, and embedded systems.
-- **Python:** Popular for web development, data science, and automation.
-- **Java:** Used for mobile apps, enterprise software, and web applications.
-- **JavaScript:** Used for web development and interactive websites.
-
-### How Does a Programming Language Work?
-1. You write code using the language's syntax.
-2. The code is translated (compiled or interpreted) into machine code.
-3. The computer executes the machine code to perform the desired tasks.
-
----
 
 # About Programming
 

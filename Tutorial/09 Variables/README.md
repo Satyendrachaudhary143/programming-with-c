@@ -40,7 +40,7 @@ char ch1 = 'A', ch2 = 'B';
 | int |Integer numbers  | int x = 10; | 
 | float |Decimal numbers  | float pi = 3.14; | 
 | char |Single character  | char ch = 'A'; | 
-| double | Double-precision floa | double d = 3.14159; | 
+| double | Double-precision float | double d = 3.14159; | 
 | bool | Boolean (true/false) | bool flag = true; | 
 
 

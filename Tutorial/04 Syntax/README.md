@@ -162,6 +162,4 @@ if (x = 5)  // Assignment instead of comparison
 | Semantics |Meaning of code  | x = x + 1; |May be valid but meaningless| 
 | Logic | Runtime bugs or incorrect output | Sorting algorithm | Runtime bugs or incorrect output | 
 
-## 🧠 Real-World Analogy: Blueprint vs Building- Syntax is like the blueprint of a building.
-- If the blueprint is flawed (missing walls, incorrect measurements), the building collapses.
-- Even if your architectural idea is brilliant (logic), it won’t matter without a valid blueprint.
+

@@ -182,19 +182,3 @@ Understanding the difference between these two paradigms helps in choosing the r
 
 ---
 
-## 🆚 Summary Table
-
-| Feature                  | Procedural Programming | Object-Oriented Programming |
-|--------------------------|------------------------|-----------------------------|
-| Program Structure        | Functions              | Objects                     |
-| Approach                 | Top-down               | Bottom-up                   |
-| Data Security            | Low                    | High (Encapsulation)        |
-| Reusability              | Limited                | High (Inheritance)          |
-| Maintenance              | Harder                 | Easier                      |
-| Examples                 | C, Pascal              | C++, Java, Python           |
-
----
-
-## ✅ Conclusion
-
-Procedural programming is great for straightforward tasks and system-level code, while OOP excels in building scalable, maintainable, and complex applications. Learning both gives a well-rounded understanding of software development.

@@ -180,4 +180,4 @@ int main() {
 - Use **format specifiers** (`%d`, `%f`, `%c`, `%s`) to read values.
 - For **strings with spaces**, prefer `fgets()` over `scanf("%s")` or `gets()`.
 
-✅ Mastering input is essential before moving on to more advanced topics like **file handling** and **data structures**.
+<!-- ✅ Mastering input is essential before moving on to more advanced topics like **file handling** and **data structures**. -->
